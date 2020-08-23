@@ -1,7 +1,7 @@
 # Bloomers Product Site
 This website was built as a group project during our time at Nashville Software School and showcases our skills with HTML, CSS, JavaScript, and our ability to work as a team.
 
-Find your pants <p><a href"https://bloomers.netlify.app/"/>HERE</a></p>
+Find your pants <p><a href="https://bloomers.netlify.app/"/>HERE</a></p>
 
 ### Demo
 
